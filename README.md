@@ -1,4 +1,4 @@
 # student-demo
-This is my fist Git repository.
+This is my first Git repository.
 <br>
 Author-Birochan Das
